@@ -1,0 +1,14 @@
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\bin\Debug\net6.0\ConAppEvenOdd.exe
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\bin\Debug\net6.0\ConAppEvenOdd.deps.json
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\bin\Debug\net6.0\ConAppEvenOdd.runtimeconfig.json
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\bin\Debug\net6.0\ConAppEvenOdd.dll
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\bin\Debug\net6.0\ConAppEvenOdd.pdb
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.AssemblyInfoInputs.cache
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.AssemblyInfo.cs
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.csproj.CoreCompileInputs.cache
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.dll
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\refint\ConAppEvenOdd.dll
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.pdb
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.genruntimeconfig.cache
+F:\ASP\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ref\ConAppEvenOdd.dll
